@@ -5,7 +5,7 @@ This repository contains a collection of simple console applications developed b
 ## *Students*
 | Name | Registration Number |
 |--|--|
-| John Vundi |  |
+| John Vundi | S13/07823/22 |
 | John Ohms Bangoza |  | 
 | Brian Ngunyi | S13/07803/22 |
 | SammyBrian Ngaruiya | S13/07743/22 |
