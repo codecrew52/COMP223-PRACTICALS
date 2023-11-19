@@ -7,13 +7,13 @@ This repository contains a collection of simple console applications developed b
 |--|--|
 | John Vundi |  |
 | John Ohms Bangoza |  | 
-| Brian Ngaruiya | S13/07803/22 |
-| Brian  |  |
+| Brian Ngunyi | S13/07803/22 |
+| SammyBrian Ngaruiya | S13/07743/22 |
 | Barasa Peter | S13/04379/21 |
 | Dicken Muriki | S13/07751/22 |
 | Wanaswa Victor | S13/07794/22 |
 | Kenneth Lepas| S13/08008/22 |  
-|  Tonny Munene | S13/07831/22 |
+| Tonny Munene | S13/07831/22 |
 |  |  |
 ## Applications
 
