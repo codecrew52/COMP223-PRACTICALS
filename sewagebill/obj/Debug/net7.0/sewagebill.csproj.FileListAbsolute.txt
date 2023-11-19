@@ -1,0 +1,14 @@
+C:\Users\baras\Videos\CodeCrew\sewagebill\bin\Debug\net7.0\sewagebill.exe
+C:\Users\baras\Videos\CodeCrew\sewagebill\bin\Debug\net7.0\sewagebill.deps.json
+C:\Users\baras\Videos\CodeCrew\sewagebill\bin\Debug\net7.0\sewagebill.runtimeconfig.json
+C:\Users\baras\Videos\CodeCrew\sewagebill\bin\Debug\net7.0\sewagebill.dll
+C:\Users\baras\Videos\CodeCrew\sewagebill\bin\Debug\net7.0\sewagebill.pdb
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.AssemblyInfoInputs.cache
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.AssemblyInfo.cs
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.csproj.CoreCompileInputs.cache
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.dll
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\refint\sewagebill.dll
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.pdb
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\sewagebill.genruntimeconfig.cache
+C:\Users\baras\Videos\CodeCrew\sewagebill\obj\Debug\net7.0\ref\sewagebill.dll
