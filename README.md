@@ -1,8 +1,8 @@
-# Application Development Group Project
+# COMP223 - Object Oriented Programming App Assignments
 
 This repository contains a collection of simple console applications developed by a group of students for an application development course.
 
-## *Students*
+## Project participants
 | Name | Registration Number |
 |--|--|
 | John Vundi | S13/07823/22 |
