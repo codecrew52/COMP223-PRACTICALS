@@ -6,7 +6,7 @@ This repository contains a collection of simple console applications developed b
 | Name | Registration Number |
 |--|--|
 | John Vundi | S13/07823/22 |
-| John Bagonza | s13/07759/22 | 
+| John Bagonza | S13/07759/22 | 
 | Brian Ngunyi | S13/07803/22 |
 | Sammy Brian Ngaruiya | S13/07743/22 |
 | Barasa Peter | S13/04379/21 |
@@ -14,7 +14,7 @@ This repository contains a collection of simple console applications developed b
 | Wanaswa Victor | S13/07794/22 |
 | Kenneth Lepas| S13/08008/22 |  
 | Tonny Munene | S13/07831/22 |
-|  Geofrey Macharia | S13/07772/22 |
+| Geofrey Macharia | S13/07772/22 |
 ## Applications
 
 The following console applications were developed:
