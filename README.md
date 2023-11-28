@@ -1,6 +1,6 @@
 # Application Development Group Project
 
-This repository contains a collection of simple console applications developed by a group of students for an application development course.
+This repository contains a collection of simple console applications developed by a collaboration us for an OOP course, COMP 223.
 
 ## Student contributors
 | Name | Registration Number |
@@ -17,7 +17,7 @@ This repository contains a collection of simple console applications developed b
 | Geofrey Macharia | S13/07772/22 |
 ## Applications
 
-The following console applications were developed:
+We developed the following applications =>
 
 - Bank Account Management System - Allows creating/managing bank accounts 
 - Calculator - Evaluates mathematical expressions
@@ -39,7 +39,7 @@ The applications were built using:
 
 ## Setup
 
-To run the applications:
+To run the applications;
 
 1. Install the .NET Core SDK
 2. Clone the repository
@@ -48,7 +48,7 @@ To run the applications:
 
 ## License
 
-This project is licensed under the MIT license. Feel free to use the source code as needed.
+This project is not bound to any licenses. 
 
 ## Documentation
 
